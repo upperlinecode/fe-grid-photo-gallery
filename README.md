@@ -2,6 +2,7 @@
 
 In this lab, you'll be taking some raw HTML with images and turning it in to a beautiful photo gallery!
 
+We've included some photos already, but feel free to replace these with your own.
 
 ## Stretch
 
