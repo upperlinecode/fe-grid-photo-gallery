@@ -6,7 +6,7 @@ We've included some photos already, but feel free to replace these with your own
 
 Fork and clone this repository to begin with a starter template. You'll need to use your CSS grid ninja skills to make it responsive and beautiful.
 
-![Finished Gallery](gallery-demo.png)
+![Finished Gallery](https://raw.githubusercontent.com/upperlinecode/fe-grid-photo-gallery/master/gallery-demo.png)
 
 ## Stretch
 
